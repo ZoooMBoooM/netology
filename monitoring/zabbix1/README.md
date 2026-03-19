@@ -46,19 +46,19 @@ ServerActive=192.168.0.127
 DebugLevel=5
 
 # Проверка работоспособности сервера в WEB интерфейсе
-![Screenshot1](https://github.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot1.jpg)
+![Screenshot1](https://raw.githubusercontent.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot1.jpg)
 
 # Проверка подключения хостов host1 и host2 в WEB интерфейсе
-![Screenshot2](https://github.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot2.jpg)
+![Screenshot2](https://raw.githubusercontent.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot2.jpg)
 
 # Проверка работоспособности host1 в WEB интерфейсе
-![Screenshot3](https://github.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot3.jpg)
+![Screenshot3](https://raw.githubusercontent.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot3.jpg)
 
 # Проверка работоспособности host2 в WEB интерфейсе
-![Screenshot4](https://github.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot4.jpg)
+![Screenshot4](https://raw.githubusercontent.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot4.jpg)
 
 # Вывод логов в консоль host1
-![Screenshot5](https://github.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot5.jpg)
+![Screenshot5](https://raw.githubusercontent.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot5.jpg)
 
 # Вывод логов в консоль host2
-![Screenshot6](https://github.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot6.jpg)
+![Screenshot6](https://raw.githubusercontent.com/ZoooMBoooM/netology/blob/main/monitoring/zabbix1/screenshots/screenshot6.jpg)
