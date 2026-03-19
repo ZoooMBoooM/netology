@@ -52,10 +52,11 @@ DebugLevel=5
 ![Screenshot2](https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot2.jpg)
 
 # Проверка работоспособности host1 в WEB интерфейсе
-![Screenshot3](https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot3.jpg)
+![Screenshot3](./screenshots/screenshot3.jpg)
+![Screenshot3](/screenshots/screenshot3.jpg)
 
 # Проверка работоспособности host2 в WEB интерфейсе
-![Screenshot4](https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot4.jpg)
+![Screenshot4](/monitoring/zabbix1/screenshots/screenshot4.jpg)
 
 # Вывод логов в консоль host1
 ![Screenshot5](./monitoring/zabbix1/screenshots/screenshot5.jpg)
