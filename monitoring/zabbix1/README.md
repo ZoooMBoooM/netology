@@ -2,6 +2,26 @@
 
 ## Установка и настройка Zabbix Server
 
+###  Задание 1
+### Проверка работоспособности сервера в WEB интерфейсе
+![Screenshot1](./screenshots/screenshot1.jpg)
+
+### Проверка подключения хостов host1 и host2 в WEB интерфейсе
+![Screenshot2](./screenshots/screenshot2.jpg)
+
+### Проверка работоспособности host1 в WEB интерфейсе
+![Screenshot3](./screenshots/screenshot3.jpg)
+
+### Проверка работоспособности host2 в WEB интерфейсе
+![Screenshot4](./screenshots/screenshot4.jpg)
+
+### Вывод логов в консоль host1
+![Screenshot5](./screenshots/screenshot5.jpg)
+
+### Вывод логов в консоль host2
+![Screenshot6](./screenshots/screenshot6.jpg)
+
+### Задание 2
 ### Использованные команды
 
 ```bash
@@ -46,23 +66,5 @@ ServerActive=192.168.0.127
 DebugLevel=5
 ```
 
-# Проверка работоспособности сервера в WEB интерфейсе
-![Screenshot1](https://github.com/ZoooMBoooM/netology/blob/209bf35fc099cd459d433ac4af887b32a280e7bd/monitoring/zabbix1/screenshots/screenshot1.jpg))
 
-# Проверка подключения хостов host1 и host2 в WEB интерфейсе
-![Screenshot2](https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot2.jpg)
 
-# Проверка работоспособности host1 в WEB интерфейсе
-![Screenshot3](./screenshots/screenshot3.jpg)
-![Screenshot3](/screenshots/screenshot3.jpg)
-
-# Проверка работоспособности host2 в WEB интерфейсе
-![Screenshot4](/monitoring/zabbix1/screenshots/screenshot4.jpg)
-
-# Вывод логов в консоль host1
-![Screenshot5](./monitoring/zabbix1/screenshots/screenshot5.jpg)
-
-# Вывод логов в консоль host2
-![Screenshot6](monitoring/zabbix1/screenshots/screenshot6.jpg)
-
-![Тест](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
