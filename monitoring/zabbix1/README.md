@@ -46,7 +46,7 @@ ServerActive=192.168.0.127
 DebugLevel=5
 
 # Проверка работоспособности сервера в WEB интерфейсе
-![Screenshot1]([https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot1.jpg)
+![Screenshot1](https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot1.jpg)
 
 # Проверка подключения хостов host1 и host2 в WEB интерфейсе
 ![Screenshot2](https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot2.jpg)
