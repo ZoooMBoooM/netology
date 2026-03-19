@@ -62,3 +62,5 @@ DebugLevel=5
 
 # Вывод логов в консоль host2
 ![Screenshot6](monitoring/zabbix1/screenshots/screenshot6.jpg)
+
+![Тест](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
