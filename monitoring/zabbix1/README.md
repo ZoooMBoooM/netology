@@ -44,6 +44,7 @@ nano /etc/zabbix/zabbix_agentd.conf
 Server=192.168.0.127
 ServerActive=192.168.0.127
 DebugLevel=5
+```
 
 # Проверка работоспособности сервера в WEB интерфейсе
 ![Screenshot1](https://github.com/ZoooMBoooM/netology/blob/209bf35fc099cd459d433ac4af887b32a280e7bd/monitoring/zabbix1/screenshots/screenshot1.jpg))
