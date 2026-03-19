@@ -61,4 +61,4 @@ DebugLevel=5
 ![Screenshot5](https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot5.jpg)
 
 # Вывод логов в консоль host2
-![Screenshot6](https://raw.githubusercontent.com/ZoooMBoooM/netology/main/monitoring/zabbix1/screenshots/screenshot6.jpg)
+![Screenshot6](monitoring/zabbix1/screenshots/screenshot6.jpg)
